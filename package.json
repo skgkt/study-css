@@ -1,6 +1,7 @@
 {
 	"name": "study-css",
 	"private": true,
+	"type": "module",
 	"scripts": {
 		"format": "biome check --write"
 	},
